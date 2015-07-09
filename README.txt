@@ -1,4 +1,4 @@
-2014-07-20
-==========
+Latex_CV
+========
 
-My CV from Latex template found online. I will continually update.
+Editing a LaTex CV template authored by Theodore P. Pavlic that I found online. 
